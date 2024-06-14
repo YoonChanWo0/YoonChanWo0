@@ -3,7 +3,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=EFE4B0&height=300&section=header&text=YoonChanWo0's%20Lecture%20Repository&fontSize=40"/>
   </a>
 </p>
-## Hi there 👋
+
 
 ## Profile
 - 이름 : 윤찬우
