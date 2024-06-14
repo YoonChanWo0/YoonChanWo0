@@ -61,7 +61,7 @@
   - [SpringBoot](https://github.com/YoonChanWo0/basic-springboot-2024)
 
 ## Project
-- [(또시락) 도시락 생산사이트 제작](https://github.com/tiger0854/itwill_2)
+- [(또시락) 도시락 생산사이트 제작(https://github.com/tiger0854/itwill_2)]
 - [(북이지) '쉬운' 중고책 거래 사이트 제작(https://github.com/Seseok97/BookEZ)]
 - [(이비톡) 교육생을 위한 소통 플랫폼 개발 (https://github.com/pknu-java-ebtalk/ebtalk-backend-pjt)]
   
