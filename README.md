@@ -39,9 +39,11 @@
     <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/PuTTY_icon_128px.png">
     <img height="40" src="https://img.icons8.com/color/48/000000/raspberry-pi.png">
     <img height="40" src="https://mosquitto.org/stickers/mosquitto-mono.png">
-    <img height="40" src="https://img.icons8.com/fluent/48/000000/vmware-workstation-player.png">
-    <img height="40" src="https://taiwebs.com/upload/icons/vnc-connect-enterprise220-220.png">
- 
+    <img height="40" src="https://github.com/YoonChanWo0/YoonChanWo0/assets/124485701/d6896f44-86a4-4652-896c-ceee2df4eb6d">
+    <img height="40" src="https://github.com/YoonChanWo0/YoonChanWo0/assets/124485701/e60c27da-87a5-4d89-afa7-825a97568f39">
+
+
+
 
 
 
