@@ -17,6 +17,13 @@
   </a>
 </p>
 
+## Using Languages
+<p align='left'>
+    <img height="40" src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" title="Java">
+    <img height="40" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" title="Python">
+    <img height="40" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" title="Javascript">
+</p>
+
 
 ## Using Tools
 <p align='left'>
