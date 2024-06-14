@@ -59,6 +59,8 @@
   - [빅데이터분석](https://github.com/YoonChanWo0/bigdata-analysis-2024)
 - SpringBoot
   - [SpringBoot](https://github.com/YoonChanWo0/basic-springboot-2024)
+
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 <!--
 **YoonChanWo0/YoonChanWo0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
