@@ -1,6 +1,6 @@
 <p align='center'>
   <a href="https://github.com/YoonChanWo0">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=EFE4B0&height=300&section=header&text=YoonChanWo0's%20Lecture%20Repository&fontSize=40"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=YoonChanWo0's%20Lecture%20Repository&fontSize=48&animation=twinkling&rotate=0&strokeWidth=0&descSize=1"/>
   </a>
 </p>
 
