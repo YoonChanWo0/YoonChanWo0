@@ -34,11 +34,7 @@
   <a href="https://github.com/YoonChanWo0">
     <img height="40" src="https://github.com/YoonChanWo0/YoonChanWo0/assets/124485701/c95077e8-813f-42da-af23-80e41552573b">
     <img height="40" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">
-    <img height="40" src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/10/logo.png">
     <img height="40" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/PuTTY_icon_128px.png">
-    <img height="40" src="https://img.icons8.com/color/48/000000/raspberry-pi.png">
-    <img height="40" src="https://mosquitto.org/stickers/mosquitto-mono.png">
     <img height="40" src="https://github.com/YoonChanWo0/YoonChanWo0/assets/124485701/d6896f44-86a4-4652-896c-ceee2df4eb6d">
     <img height="40" src="https://github.com/YoonChanWo0/YoonChanWo0/assets/124485701/e60c27da-87a5-4d89-afa7-825a97568f39">
 
